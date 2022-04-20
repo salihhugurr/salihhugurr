@@ -29,7 +29,7 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="ugurrsalihh" height="30" width="40" /></a>
   <a href="https://www.salihugur.com/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+      src="https://cdn-icons.flaticon.com/png/128/3059/premium/3059997.png?token=exp=1650466050~hmac=88b5a3afb5cf5ebfa4cd4ae17da671e8"
       alt="adampithewan" height="30" width="40" /></a>
 </p>
 
