@@ -12,7 +12,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="salihhugurr" /></p>
 
 
-- 🌱 I’m currently learning Mobile Development and other programming languages
+- 🌱 I’m currently developing Mobile Apps with React Native and learning Web Development with React,NextJS
 
 - 📫 How to reach me **salihugur46@gmail.com**
 
