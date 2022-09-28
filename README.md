@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Salih Uğur</h1>
-<h3 align="center">Mobile Developer at HEY TEKNOLOJI🌟.</h3>
+<h3 align="center"> React & React Native Developer</h3>
 
 <br>
 
